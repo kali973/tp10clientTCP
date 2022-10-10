@@ -3,4 +3,4 @@ project(tp10clientTCP)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(tp10clientTCP main.cpp)
+add_executable(tp10clientTCP main.c)
