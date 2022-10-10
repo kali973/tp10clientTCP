@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <sys/socket.h>
-#include <csignal>
+#include <signal.h>
 #include <arpa/inet.h>
 
 #define MAX 80
